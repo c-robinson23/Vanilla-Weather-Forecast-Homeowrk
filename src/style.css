@@ -89,7 +89,7 @@ main {
 .weather-forecast {
   display: flex;
   justify-content: space-around;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .weather-forecast-date {
@@ -110,6 +110,10 @@ main {
   margin-top: 10px;
   display: flex;
   justify-content: center;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.5;
 }
 
 .weather-forecast-temperature {
