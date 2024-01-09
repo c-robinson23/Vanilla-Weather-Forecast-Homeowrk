@@ -64,9 +64,9 @@ function displayForecast() {
             <div class="weather-forecast-icon">🌤️</div>
             <div class="weather-forecast-temperatures">
               <div class="weather-forecast-temperature">
-                <strong>18º</strong>
+                <strong>42º</strong>
               </div>
-              <div class="weather-forecast-temperature">12º</div>
+              <div class="weather-forecast-temperature">32º</div>
             </div>
           </div>`;
   });
